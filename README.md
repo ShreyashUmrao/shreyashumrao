@@ -1,6 +1,6 @@
 Hey, I’m Shreyash Umrao
 
-Full-stack developer based in Mysuru, Karnataka, India.
+Full-stack developer based in Bangalore, Karnataka, India.
 I enjoy building clean, scalable, and reliable web applications with a strong focus on backend engineering, API design, and modern frontend development.
 
 I primarily work with Python, Django REST Framework, FastAPI, React (Vite), and JavaScript, along with PostgreSQL, MongoDB, and Redis for data systems.
